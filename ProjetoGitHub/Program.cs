@@ -1,4 +1,4 @@
-﻿namespace ProjetoGitHub;
+namespace ProjetoGitHub;
 class Program
 {
     public static void Main(string[] args)
